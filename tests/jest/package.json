@@ -17,8 +17,8 @@
     "react-dom": "^18.3.1",
     "server-only": "^0.0.1",
     "whatwg-fetch": "^3.6.20",
-    "zsa": "*",
-    "zsa-openapi": "*"
+    "zsa": "workspace:*",
+    "zsa-openapi": "workspace:*"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "6.1.5",

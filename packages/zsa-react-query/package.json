@@ -33,7 +33,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "zsa": "*"
+    "zsa": "workspace:*"
   },
   "peerDependencies": {
     "@tanstack/react-query": "^5.0.0",
